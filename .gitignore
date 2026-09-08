@@ -1,0 +1,22 @@
+.venv/
+venv-vllm/
+venv-slg/
+__pycache__/
+*.py[cod]
+
+# Local editor and runtime state
+.idea/
+.vscode/
+tmp/
+
+# Generated benchmark artifacts
+log/
+output/
+bak/
+data/generated/
+data/source/
+
+# Local archives and environment files
+*.zip
+.env
+.env.*
