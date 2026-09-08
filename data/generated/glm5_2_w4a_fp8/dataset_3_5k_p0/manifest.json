@@ -1,0 +1,17 @@
+{
+  "case_name": "dataset_3_5k_p0",
+  "tokenizer_path": "/home/coder/workspace/model/GLM-5.2-W4AFP8",
+  "input_tokens": 3584,
+  "output_tokens": 1536,
+  "data_num": 680,
+  "prefix_ratio": 0.0,
+  "common_prefix_tokens": 0,
+  "seed": 1,
+  "created_utc": "2026-09-04T14:18:05.830055+00:00",
+  "files": {
+    "test.jsonl": {
+      "rows": 680,
+      "sha256": "ec217c9556f25bd1517b73cae1a74fe72107d5feee6b8ad8756746b6fcaeff88"
+    }
+  }
+}

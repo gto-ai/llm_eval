@@ -13,8 +13,6 @@ tmp/
 log/
 output/
 bak/
-data/generated/
-data/source/
 
 # Local archives and environment files
 *.zip

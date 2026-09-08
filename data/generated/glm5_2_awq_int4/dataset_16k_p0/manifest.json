@@ -1,0 +1,17 @@
+{
+  "case_name": "dataset_16k_p0",
+  "tokenizer_path": "/home/coder/workspace/model/GLM-5.2-AWQ-INT4",
+  "input_tokens": 16384,
+  "output_tokens": 1024,
+  "data_num": 680,
+  "prefix_ratio": 0.0,
+  "common_prefix_tokens": 0,
+  "seed": 1,
+  "created_utc": "2026-09-04T14:13:54.054538+00:00",
+  "files": {
+    "test.jsonl": {
+      "rows": 680,
+      "sha256": "038b200611d61e8a4354e00795210e2f2df79a90f1542a88372111694f16a711"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/openai/grade-school-math",
+  "revision": "3101c7d5072418e28b9008a6636bde82a006892c",
+  "files": {
+    "train.jsonl": {
+      "rows": 7473,
+      "bytes": 4166206,
+      "sha256": "17f347dc51477c50d4efb83959dbb7c56297aba886e5544ee2aaed3024813465"
+    },
+    "test.jsonl": {
+      "rows": 1319,
+      "bytes": 749738,
+      "sha256": "3730d312f6e3440559ace48831e51066acaca737f6eabec99bccb9e4b3c39d14"
+    },
+    "LICENSE": {
+      "bytes": 1062,
+      "sha256": "86bbb73e855821d7c401912fd4bf82e34313e6e3b6fd6f909f2b6cc9e209a53b"
+    }
+  },
+  "prefix_helper": {
+    "repository": "https://github.com/rayn-zzz/aisbench_auto_tools_prefix",
+    "revision": "40f8a57e0c0204529e40f0c57b37f283462f687c",
+    "bundled_test_rows": 1319,
+    "bundled_test_sha256": "fb581f0270b25988e071316835842a1c8449f4e27af6fc0f539ef270b987f9ff",
+    "semantically_equal_to_official_test": true
+  }
+}

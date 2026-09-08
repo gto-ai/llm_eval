@@ -1,0 +1,21 @@
+{
+  "case_name": "dataset_128k_p90",
+  "tokenizer_path": "/home/coder/workspace/model/GLM-5.2-W4AFP8",
+  "input_tokens": 131072,
+  "output_tokens": 1024,
+  "data_num": 680,
+  "prefix_ratio": 0.9,
+  "common_prefix_tokens": 117964,
+  "seed": 1,
+  "created_utc": "2026-09-04T14:17:43.742683+00:00",
+  "files": {
+    "test.jsonl": {
+      "rows": 680,
+      "sha256": "9307b7bda7d26687a6be56347cd8628570a7bc18536ee6ed3faedc0b657c23c0"
+    },
+    "prefix.jsonl": {
+      "rows": 1,
+      "sha256": "feca5368cb904735a8c713351d637cb4005fab0cd28ab40de9969355df8ca0b8"
+    }
+  }
+}
